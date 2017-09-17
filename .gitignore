@@ -1,0 +1,6 @@
+/build/*
+/dev*
+/dist*
+/node_modules*
+!/dev/assets/vendor
+!/dist/assets/vendor
